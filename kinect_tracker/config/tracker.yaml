@@ -1,0 +1,6 @@
+width_fov: 1.23220245191      # 70.6*M_PI/180
+height_fov: 1.0471975512      # 60.0*M_PI/180
+depth_topic: "/camera/depth/image_rect"
+roi_topic: "/detection_result"
+synchronize_frames: false
+
